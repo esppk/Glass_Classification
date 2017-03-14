@@ -1,5 +1,6 @@
 # Glass_Classification
-Udacity Capstone Project
+## Udacity Capstone Project
+
 In this project, I will use a public available data set to build a model to identify the type of the glass
 sample by their chemical or physical attributes. The data set was originally used by Ian W Evett et al in
 a paper with similar task. However, that paper was published in 1987, the approaches used in the
